@@ -16,12 +16,4 @@ chmod +x monitoring.sh
 Run the script:
 ./monitoring.sh
 
-## Automate with cron (every 5 minutes)
-crontab -e
 
-Add this line:
-*/5 * * * * /path/to/monitoring.sh
-
-## Tech stack
-- Bash
-- cron
