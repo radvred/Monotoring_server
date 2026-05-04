@@ -1,4 +1,4 @@
-# 🖥️ Server Monitor
+#  Server Monitor
 
 Bash script for monitoring server resources: CPU, memory, and disk usage.
 
